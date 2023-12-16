@@ -1,0 +1,1 @@
+# homebrew-macos-battery-exporter
