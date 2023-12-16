@@ -5,13 +5,13 @@
 class MacosBatteryExporter < Formula
   desc "Prometheus exporter for detailed battery metrics on macOS."
   homepage "https://github.com/jimeh/macos-battery-exporter"
-  version "0.0.1"
+  version "0.0.2"
   license "MIT"
   depends_on :macos
 
   on_macos do
-    url "https://github.com/jimeh/macos-battery-exporter/releases/download/v0.0.1/macos-battery-exporter-0.0.1_darwin_universal.tar.gz"
-    sha256 "8f97b7c4bab8515d454fdcbbaeaab69d61296ffaef56b4677ddcde354c64aceb"
+    url "https://github.com/jimeh/macos-battery-exporter/releases/download/v0.0.2/macos-battery-exporter-0.0.2_darwin_universal.tar.gz"
+    sha256 "a8f321a1f416cf52051a7decd3f9a496c8608ea677942478b1eea74f8308d9d3"
 
     def install
       bin.install "macos-battery-exporter"
