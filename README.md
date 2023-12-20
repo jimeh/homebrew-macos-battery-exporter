@@ -26,3 +26,7 @@ The following Homebrew Formulas are provided by this Homebrew Tap:
 
 - [`macos-battery-exporter`](https://github.com/jimeh/macos-battery-exporter) —
   Prometheus exporter for detailed battery metrics on macOS.
+
+## License
+
+[CC0](https://github.com/jimeh/homebrew-tap/blob/main/LICENSE)
