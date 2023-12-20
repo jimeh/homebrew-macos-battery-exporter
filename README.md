@@ -1,24 +1,23 @@
 <h1 align="center">
-  Homebrew Tap: macos-battery-exporter
+  jimeh's Homebrew Tap
 </h1>
 
 <p align="center">
   <strong>
-    Homebrew tap for <a href="https://github.com/jimeh/macos-battery-exporter"><code>macos-battery-exporter</code></a>.
+    Homebrew tap for various projects by <a href="https://github.com/jimeh">@jimeh</a>.
   </strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jimeh/macos-battery-exporter/releases"><img src="https://img.shields.io/github/v/tag/jimeh/macos-battery-exporter?label=release" alt="GitHub tag (latest SemVer)"></a>
-  <a href="https://github.com/jimeh/homebrew-macos-battery-exporter/issues"><img src="https://img.shields.io/github/issues-raw/jimeh/homebrew-macos-battery-exporter.svg?style=flat&logo=github&logoColor=white" alt="GitHub issues"></a>
-  <a href="https://github.com/jimeh/homebrew-macos-battery-exporter/pulls"><img src="https://img.shields.io/github/issues-pr-raw/jimeh/homebrew-macos-battery-exporter.svg?style=flat&logo=github&logoColor=white" alt="GitHub pull requests"></a>
-  <a href="https://github.com/jimeh/homebrew-macos-battery-exporter/blob/main/LICENSE"><img src="https://img.shields.io/github/license/jimeh/homebrew-macos-battery-exporter.svg?style=flat" alt="License Status"></a>
+  <a href="https://github.com/jimeh/homebrew-tap/issues"><img src="https://img.shields.io/github/issues-raw/jimeh/homebrew-tap.svg?style=flat&logo=github&logoColor=white" alt="GitHub issues"></a>
+  <a href="https://github.com/jimeh/homebrew-tap/pulls"><img src="https://img.shields.io/github/issues-pr-raw/jimeh/homebrew-tap.svg?style=flat&logo=github&logoColor=white" alt="GitHub pull requests"></a>
+  <a href="https://github.com/jimeh/homebrew-tap/blob/main/LICENSE"><img src="https://img.shields.io/github/license/jimeh/homebrew-tap.svg?style=flat" alt="License Status"></a>
 </p>
 
 ## Install Tap
 
 ```
-brew tap jimeh/macos-battery-exporter
+brew tap jimeh/tap
 ```
 
 ## Formulas
